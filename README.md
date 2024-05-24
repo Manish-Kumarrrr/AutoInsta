@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 ## Usage
 1. **Update the Script with Your Credentials and Target Usernames**
 
-    Open the `auto_insta_excel.py` file and replace the following placeholders:
+    Open the `auto_insta.py` file and replace the following placeholders:
     ```python
     USERNAME = 'your_username'
     PASSWORD = 'your_password'
