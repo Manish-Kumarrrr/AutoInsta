@@ -15,6 +15,7 @@ Before you begin, ensure you have the following installed:
 - pandas (for handling Excel files)
 - OpenPyXL (for working with Excel files in pandas)
 - ChromeDriver (compatible with your version of Chrome)
+- Disable dual authentication of Instagram account
 
 ## Installation
 1. **Clone the Repository**
